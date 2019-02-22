@@ -15,12 +15,8 @@
     "noUnusedParameters": true,
     "preserveConstEnums": true,
     "pretty": true,
-    "sourceMap": true,
+    "sourceMap": false,
     "strict": true,
     "target": "es2015"
-  },
-  "files": [
-    "index.tsx",
-    "test.tsx"
-  ]
+  }
 }
